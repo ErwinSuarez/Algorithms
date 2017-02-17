@@ -1,6 +1,3 @@
-//TestMyMath.java
-/*Driver class for MyMath*/
-
 package erwin.suarez.Lab1;
 
 import java.util.Scanner;

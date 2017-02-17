@@ -1,5 +1,3 @@
-//MyMath.java
-/*This is a class with user defined methods*/
 package erwin.suarez.Lab1;
 
 public class MyMath{
